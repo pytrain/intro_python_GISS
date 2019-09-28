@@ -11,7 +11,7 @@ We will cover the foundations of Python
 ### Day 1
 
 | Time | Lecture Topic | Interactive Link | Lecturer |
-|------|---------------|------------------|----------|
+|---|---|---|---|
 | 08:30-09:15 | **Basic Setups and Launching Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/welcome/blob/master/welcome.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/run_python/blob/master/run.ipynb) | Jules |
 | 09:15 - 10:00 | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/data_types/blob/master/Python_basic_data_types.ipynb) | Bruce |
 | 10:00 - 10:15 | Break |  |  |
@@ -31,7 +31,7 @@ We will cover the foundations of Python
 ### Day 2
 
 | Time | Lecture Topic | Interactive Link | Lecturer |
-|------|---------------|------------------|----------|
+|---|---|---|---|
 | 08:30 - 09:30 | **netCDF4 Python**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/science_data_formats/blob/master/intro_netcdf4.ipynb) | Jules |
 | 09:30 - 10:30 | **Cartopy**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/viz/blob/master/introduction_cartopy.ipynb) | Jules |
 | 10:30 - 10:45 | Break |  |  |
