@@ -23,7 +23,7 @@ We will cover the foundations of Python
 | 14:15 - 15:00 | **IO with Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/File_IO.ipynb) | Bruce |
 | 15:00 - 15:15 | Break |  |  |
 | 15:15 - 16:15 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/numpy/blob/master/IntroNumPy.ipynb) | Jules |
-| 16:15 - 17:15 | Basic Visualization with Matplotlib | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/viz/blob/master/IntroMatplotlib.ipynb) | Jules |
+| 16:15 - 17:15 | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/viz/blob/master/IntroMatplotlib.ipynb) | Jules |
 
 ***
 
