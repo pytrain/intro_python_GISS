@@ -18,10 +18,10 @@ We will cover the foundations of Python
 | 10:15-10:35 | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/conditional_logic/blob/master/conditionals.ipynb) | Bruce |
 | 10:35-11:15 | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/loops/blob/master/loops.ipynb) | Jules |
 | 11:15-12:00 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/data_types/blob/master/Python_advanced_data_types.ipynb) | Jules |
-| 12:00-13:00 | Lunch Break |  |  |
-| 13:00-13:45 | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Functions.ipynb) | Bruce |
-| 13:45-14:15 | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Modules.ipynb) | Jules |
-| 14:15-15:00 | **IO with Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/File_IO.ipynb) | Bruce |
+| 12:00-12:50 | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Functions.ipynb) | Bruce |
+| 12:50-14:00 | Lunch Break |  |  |
+| 14:00-14:20 | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Modules.ipynb) | Jules |
+| 14:20-15:00 | **IO with Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/File_IO.ipynb) | Bruce |
 | 15:00-15:15 | Break |  |  |
 | 15:15-16:15 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/numpy/blob/master/IntroNumPy.ipynb) | Jules |
 | 16:15-17:15 | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/viz/blob/master/IntroMatplotlib.ipynb) | Jules |
