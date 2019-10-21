@@ -32,7 +32,7 @@ We will cover the foundations of Python
 
 | Time | Lecture Topic | Interactive Link | Lecturer |
 |---|---|---|---|
-| 08:30-09:30 | **netCDF4 Python**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/science_data_formats/blob/master/intro_netcdf4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/science_data_formats/blob/master/intro_h5py.ipynb) | Jules |
+| 08:30-09:30 | **netCDF4 Python** and **h5py** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/science_data_formats/blob/master/intro_netcdf4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/science_data_formats/blob/master/intro_h5py.ipynb) | Jules |
 | 09:30-10:30 | **Cartopy**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/viz/blob/master/introduction_cartopy.ipynb) | Jules |
 | 10:30-10:45 | Break |  |  |
 | 10:45-12:00 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/pandas/blob/master/Intro_Pandas.ipynb) | Bruce |
