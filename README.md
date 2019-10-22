@@ -38,6 +38,7 @@ We will cover the foundations of Python
 | 10:45-12:00 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/pandas/blob/master/Intro_Pandas.ipynb) | Bruce |
 | 12:00-13:00 | Lunch Break |  |  |
 | 13:00-14:00 | **Packaging and Deployment** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/packaging_deployment/blob/master/package_development.ipynb) | Jules |
+| 14:00-15:00 | **Exception Handling** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/error_handling/blob/master/Exception_Handling.ipynb) | Jules |
 | 14:00-15:00 | **Python Virtual Environment** | | Jules |
 | 15:00-15:15 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> | Bruce |
 
